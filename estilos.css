@@ -1,0 +1,32 @@
+body {
+    background-color: aqua;
+    color: blue;
+    text-align: center;
+}
+
+header {
+    background-color: blueviolet;
+    color: aliceblue;
+    padding: 15px;
+}
+
+main{
+    padding: 2rem;
+}
+
+button{
+    background-color: rgb(93, 0, 255);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px;
+}
+
+footer{
+    background-color: coral;
+    color: aliceblue;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
